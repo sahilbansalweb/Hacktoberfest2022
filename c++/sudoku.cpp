@@ -7,8 +7,8 @@ void readFile(char sudokuBoard[][9]);
 void writeFile(char sudokuBoard[][9]);
 void display(char sudokuBoard[][9]);
 void interact();
-void getOption(char sudokuBoard[][9]);
-void editSquare(char sudokuBoard[][9]);
+void getOption(char sudokuBoard[][10]);
+void editSquare(char sudokuBoard[][10]);
 void showValues();
 
 /**********************************************************************
