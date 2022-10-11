@@ -3,3 +3,4 @@ lst.reverse()
 print("Using reverse() ", lst)
 
 print("Using reversed() ", list(reversed(lst)))
+it is an easy reverse program
